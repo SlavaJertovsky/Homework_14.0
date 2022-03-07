@@ -1,4 +1,7 @@
-  function simpleNumber(number) {
+// Не смог решить самостоятельно. Нашёл решение на стороне. Суть решения не уловил
+
+
+function simpleNumber(number) {
       let result = [];
       let sieve = [];
 
